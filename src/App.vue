@@ -35,6 +35,21 @@
     </nav>
 
     <router-view></router-view>
+
+    <footer class="footer is-primary">
+      <div class="container">
+          <div class="columns">
+            <div class="column">
+              <p> This Is a footer </p>
+            </div>
+            <div class="column has-text-right">
+              <a class = "icon"  href="#"><i class="fa fa-facebook"></i></a>
+              <a class = "icon"  href="#"><i class="fa fa-twitter"></i></a>
+            </div>
+          </div>
+
+      </div>
+    </footer>
   </div>
 </template>
 
@@ -75,4 +90,9 @@ a.r-item
       background-color: #f1f1f1
       .navbar-burger span
         background-color: #c1c1c1
+footer
+  background-color : $primary !important
+  color: #fff
+  .icon
+    color: #fff
 </style>

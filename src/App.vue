@@ -33,7 +33,6 @@
         </div>
       </div>
     </nav>
-
     <router-view></router-view>
 
     <footer class="footer is-primary">
@@ -43,11 +42,10 @@
               <p> This Is a footer </p>
             </div>
             <div class="column has-text-right">
-              <a class = "icon"  href="#"><i class="fa fa-facebook"></i></a>
+              <a class = "icon"  href="#"><i class="fa-facebook"></i></a>
               <a class = "icon"  href="#"><i class="fa fa-twitter"></i></a>
             </div>
           </div>
-
       </div>
     </footer>
   </div>

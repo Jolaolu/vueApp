@@ -8,6 +8,21 @@
         <h2 class="subtitle is-4">
           Shit that stinks!
         </h2>
+        <div class="columns">
+          <div class="column is-one-third">
+            <div class="card">
+              <div class="card-content">
+                <p class="title">
+                  My title
+                </p>
+                <p class="subtitle">
+                  My Answer
+                </p>
+              </div>
+              
+            </div>
+          </div>
+        </div>
       </section>
     </div>
   </div>

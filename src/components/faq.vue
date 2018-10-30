@@ -1,5 +1,15 @@
 <template>
   <div class="faq">
+    <div class="container">
+      <section class="section">
+        <h1 class="title">
+          FAQ
+        </h1>
+        <h2 class="subtitle is-4">
+          Shit that stinks!
+        </h2>
+      </section>
+    </div>
   </div>
 </template>
 

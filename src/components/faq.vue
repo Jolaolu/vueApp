@@ -13,12 +13,13 @@
             <div class="card">
               <div class="card-content">
                 <p class="title">
-
+                  My title
                 </p>
                 <p class="subtitle">
-
+                  My Answer
                 </p>
               </div>
+              
             </div>
           </div>
         </div>
